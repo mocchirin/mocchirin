@@ -1,5 +1,5 @@
 <h1 align="center">もっちりんです。</h1>
-<h3 align="center">日本在住の日本人で、プログラミングを練習中です。</h3>
+<h3 align="center">プログラミングを練習中です。</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
